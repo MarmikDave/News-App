@@ -100,3 +100,4 @@ https://play.google.com/store/apps/details?id=com.soojeongshin.newsfeed.free
 ![pod_2](https://user-images.githubusercontent.com/33213229/55875027-fc8cfe80-5bce-11e9-83d6-a5c4275e41d7.png)
 ![pod_3](https://user-images.githubusercontent.com/33213229/55875036-0151b280-5bcf-11e9-8c1e-f9eea56eb51d.png)
 "# New-App" 
+"# New-App" 
